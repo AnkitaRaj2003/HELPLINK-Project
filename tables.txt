@@ -1,0 +1,5 @@
+Volunteer:
+Name,Age,Location,Profile Pic,User Id,About me,Education,Member Since,Dob.
+
+Organization: 
+Organization name,About, Member Since,Location.
